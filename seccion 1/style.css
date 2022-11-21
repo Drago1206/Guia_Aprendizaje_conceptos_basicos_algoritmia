@@ -1,7 +1,7 @@
 body{
     background-color: rgb(228, 124, 228);
 }
-h1{
+h1,h3,p{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -9,10 +9,7 @@ table,td,th{
     border:1.5px solid black
 
 }
-.input{
-    margin-left: 42em;
-    margin-bottom: 2em;
-}
+
 .input{
     margin-left:36em;
     margin-bottom: 2em;
